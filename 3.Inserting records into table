@@ -1,0 +1,5 @@
+INSERT INTO student
+VALUES
+(1,'Ujjal','Male',23,3.85,'Nilphamari'),
+(2,'mithu','Male',23,3.38,'mymensingh'),
+(3,'rudro','Male',22,3.30,'rajshahi')
