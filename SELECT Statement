@@ -1,0 +1,8 @@
+SELECT NAME
+from student;
+
+SELECT name,ROLL
+FROM student;
+
+SELECT * 
+FROM student;
