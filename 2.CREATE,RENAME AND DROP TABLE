@@ -1,0 +1,15 @@
+CREATE TABLE student
+(
+   ROLL int,
+   NAME varchar(20),
+   GENDER varchar(20),
+   AGE int,
+    GPA double(5,2),
+   CITY varchar(20)
+
+
+);
+
+RENAME TABLE student1 to ss;
+
+DROP TABLE ss;
