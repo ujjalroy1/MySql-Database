@@ -1,0 +1,10 @@
+SELECT DISTINCT GENDER
+FROM student;
+
+SELECT *
+FROM student
+LIMIT 2;
+
+SELECT *
+FROM student
+LIMIT 1,2;
