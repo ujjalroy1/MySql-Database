@@ -1,0 +1,9 @@
+SELECT *
+FROM student
+where city='Nilphamari';
+
+
+SELECT *
+FROM student
+where city='Nilphamari'
+ORDER BY NAME;
