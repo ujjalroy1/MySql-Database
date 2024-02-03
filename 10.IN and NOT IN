@@ -1,0 +1,10 @@
+SELECT*
+FROM student
+WHERE CITY IN('nilphamari','rangpur');
+
+SELECT*
+FROM student
+WHERE CITY NOT IN('nilphamari','rangpur');
+
+
+
