@@ -1,0 +1,20 @@
+SELECT*
+FROM student
+WHERE NAME LIKE 'a%';
+
+
+SELECT*
+FROM student
+WHERE NAME LIKE '%l';
+
+SELECT*
+FROM student
+WHERE NAME LIKE '%ul%';
+
+SELECT*
+FROM student
+WHERE NAME LIKE '_i%';
+
+SELECT*
+FROM student
+WHERE NAME LIKE '%a_';
