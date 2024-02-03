@@ -1,0 +1,8 @@
+SELECT name
+FROM student
+ORDER by NAME;
+
+
+SELECT name
+FROM student
+ORDER by NAME DESC;
