@@ -1,0 +1,8 @@
+SELECT *
+FROM student
+WHERE CITY="Nilphamari" or GPA>3.3;
+
+
+SELECT *
+FROM student
+WHERE CITY="Nilphamari" AND GPA>3.3;
