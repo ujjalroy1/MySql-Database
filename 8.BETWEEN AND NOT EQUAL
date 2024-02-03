@@ -1,0 +1,7 @@
+SELECT *
+FROM student
+WHERE ROLL BETWEEN 2 AND 4;
+
+SELECT *
+FROM student
+WHERE ROLL!=1;
