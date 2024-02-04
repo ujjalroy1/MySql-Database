@@ -1,0 +1,10 @@
+ALTER TABLE student
+ADD DOB varchar(255);
+
+
+ALTER TABLE student
+CHANGE DOB  DATE_OF_BIRTH varchar(266);
+
+
+ALTER TABLE student
+DROP COLUMN DATE_OF_BIRTH;
