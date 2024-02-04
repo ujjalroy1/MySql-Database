@@ -1,0 +1,2 @@
+SELECT UPPER(NAME) AS name,LOWER(city)AS city
+FROM student;
