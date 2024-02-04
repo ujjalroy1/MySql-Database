@@ -1,0 +1,6 @@
+select SUM(GPA),AVG(GPA),MAX(GPA),MIN(GPA),COUNT(*) AS Count_of_row
+FROM student;
+
+
+SELECT name,roll,CITY,MIN(gpa) AS GPA
+FROM student;
