@@ -1,0 +1,12 @@
+SELECT *
+FROM icpc
+UNION 
+SELECT *
+FROM ncpc;
+
+
+SELECT *
+FROM icpc
+UNION ALL
+SELECT *
+FROM ncpc;
