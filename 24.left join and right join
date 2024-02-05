@@ -1,0 +1,9 @@
+	SELECT name,exam_res.roll,age,gpa
+   FROM stu_del LEFT join exam_res
+    ON stu_del.roll=exam_res.roll
+
+
+
+    	SELECT name,exam_res.roll,age,gpa
+   FROM stu_del RIGHT join exam_res
+   ON stu_del.roll=exam_res.roll
