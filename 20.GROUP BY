@@ -1,0 +1,4 @@
+SELECT name,MAX(gpa)
+FROM student
+GROUP BY city
+ORDER BY MAX(gpa) DESC;
