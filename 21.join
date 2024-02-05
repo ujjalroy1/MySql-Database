@@ -1,0 +1,3 @@
+SELECT exam_res.roll,name,gpa,GROUP_name
+FROM stu_del,exam_res
+WHERE exam_res.roll=stu_del.roll;
