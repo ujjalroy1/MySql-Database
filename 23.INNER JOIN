@@ -1,0 +1,3 @@
+SELECT name,exam_res.roll,gpa
+FROM exam_res INNER JOIN stu_del
+ON exam_res.roll=stu_del.roll;
