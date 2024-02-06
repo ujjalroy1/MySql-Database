@@ -17,7 +17,7 @@ BCA104 		Core Java
 BCA105 		Math
 BCA106 		Android
 
-Query 1: Write a query to create the table in Structured Query Language.
+#### Query 1: Write a query to create the table in Structured Query Language.
 
 Answer
 CREATE TABLE student
